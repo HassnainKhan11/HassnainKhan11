@@ -35,4 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassnainkhan11&" alt="hassnainkhan11" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassnainkhan11&theme=radical)
+<p>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassnainkhan11&theme=radical)</p>
