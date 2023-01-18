@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hassnain Khan</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<div stle="flex-direction:row; display:flex;">
+<div><h1 align="center">Hi 👋, I'm Hassnain Khan</h1>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3></div>
+src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966") </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassnainkhan11&label=Profile%20views&color=0e75b6&style=flat" alt="hassnainkhan11" /> </p>
 
@@ -22,6 +24,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
+(img align="right" alt="Coding" width="400" 
+
 <p align="left">
 <a href="https://dev.to/khan_hassnain33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="khan_hassnain33" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hassnain-khan-a15848190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hassnain-khan-a15848190/" height="30" width="40" /></a>
