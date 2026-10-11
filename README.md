@@ -63,17 +63,6 @@
 
 ---
 
-## 🚀 Featured Work
-
-| Project | What I built | Stack | Link |
-| --- | --- | --- | --- |
-| **Bundle: Service Marketplace** | Led the app from scratch to launch on both stores. Map-based discovery of nearby providers, Stripe booking and payments, real-time chat and push notifications | React Native, Redux, Firebase, Stripe, Google Maps, WebSockets | [App Store](https://apps.apple.com/pk/app/bundle-service-marketplace/id6761484460) |
-| **Cavago** | Stripe-based checkout and REST API integration (+30% transactions), Google and Apple Sign-In (+40% sign-ups) | React Native, Redux, Firebase, Locofy | [Website](https://cavago.com/home) |
-| **Nileur** | Backend API integration for payments and subscriptions, real-time audio and live streaming with Agora | Flutter, Dart, GetX, Firebase, Agora SDK | [Android](https://play.google.com/store/apps/details?id=com.nileur.app&hl=en) · [iOS](https://apps.apple.com/gb/developer/nileur-ltd/id1684922871) |
-| **Rightnowhelp** | Real-time chat between helpers and seekers, Stripe booking flow, OAuth sign-in, push notifications for live gig updates | React Native, Redux, Stripe, WebSockets, Google Maps | [Website](https://www.rightnowhelp.com/) |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
