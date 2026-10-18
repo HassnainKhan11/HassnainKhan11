@@ -68,6 +68,13 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=HassnainKhan11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassnainKhan11&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HassnainKhan11&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HassnainKhan11&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
+</p>
 
 ---
 
