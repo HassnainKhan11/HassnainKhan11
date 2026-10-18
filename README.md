@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HassnainKhan11&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
+  <img src="https://ghchart.rshah.org/2ea44f/HassnainKhan11" alt="Contribution calendar"/>
 </p>
 
 ---
